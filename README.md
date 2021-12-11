@@ -19,7 +19,7 @@
 
 ## [기술 스택]
 ### 사용 기술
-Django, Python, MySQL, jwt, bcrypt, AWS(EC2, RDS), Docker, Schdule, Git
+Django, Python, MySQL, jwt, bcrypt, AWS(EC2, RDS), Docker, Schdule
 
 ### ERD
 <img width="1018" alt="스크린샷 2021-12-04 14 50 46" src="https://user-images.githubusercontent.com/31269150/145546704-f63f872d-047a-4fb6-8eb8-344686afcfe3.png">
