@@ -9,6 +9,7 @@
 [Weasley - Frontend Repo](https://github.com/wecode-bootcamp-korea/27-1st-weasley-frontend)
 
 ### Back-end
+[Weasley - Backend Repo](https://github.com/wecode-bootcamp-korea/27-1st-weasley-backend)
 😎 강태준 - 인가 데코레이터, 값 검증 Validator, 장바구니/구매 관련 뷰, 구독 관리 뷰(GET)<br/>
 🍗 길동화 - 제품 뷰, 구독 관리 뷰(DELETE), 유저 관련 뷰(회원가입)<br/>
 👻 염기욱 - 카테고리 뷰, 구독 관리 뷰(POST, PATCH)
